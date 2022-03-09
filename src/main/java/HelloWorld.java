@@ -2,6 +2,7 @@ import javax.swing.*;
 
 public class HelloWorld extends JFrame {
     private JPanel panel1;
+    private JLabel lbmensagem2;
     private JLabel lblMensage2;
 
 
